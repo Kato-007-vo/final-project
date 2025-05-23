@@ -6,7 +6,7 @@ Duc V.
   
   In my portfolio site, you will see 2 sections, About Me and Project Section. About Me section is section that about me as a programmer. The other section is about my projects that I made.
   
-  There are 3 projects in my portfolio: Clocl, Tic Tac Toe and Pong. The clock project is about an analog clock that runs based on real time. The other 2 are about games and you can play them. 
+  There are 3 projects in my portfolio: Clock, Tic Tac Toe and Pong. The clock project is about an analog clock that runs based on real time. The other 2 are about games and you can play them. 
 
   Link to my repo: https://github.com/Kato-007-vo/final-project.git. 
   
