@@ -98,13 +98,15 @@ h3{
 }
 .ten{
     grid-area: ten;
+    text-align: center;
     padding: 2px 20px 0; 
     font-size: 25px;
     line-height: 1.25;
     border-right: solid 1px black;
 }
 .eleven{
-    grid-area: eleven;    
+    grid-area: eleven;  
+    text-align: center;
     padding: 2px 20px 0; 
     font-size: 25px;
     line-height: 1.25;
@@ -113,6 +115,7 @@ h3{
 }
 .twelve{
     grid-area: twelve;
+    text-align: center;  
     padding: 2px 20px 0; 
     font-size: 25px;
     line-height: 1.25;
