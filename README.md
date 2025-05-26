@@ -30,3 +30,5 @@ Here are the main projects featured in my portfolio:
 ---
 
 Thanks for visiting my portfolio!
+
+Add final project -  Duc V.
