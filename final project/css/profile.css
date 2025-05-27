@@ -82,17 +82,20 @@ h3{
 }
 .seven{
     grid-area: seven;
+    margin: auto;
     align-items: center;
     border-right: solid 1px black;
 }
 .eight{
     grid-area: eight;
+    margin: auto;
     align-items: center;
     border-right: solid 1px black;
     border-left: solid 1px black;
 }
 .nine{
     grid-area: nine;
+    margin: auto;
     align-items: center;
     border-left: solid 1px black;
 }
