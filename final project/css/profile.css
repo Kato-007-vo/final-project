@@ -96,6 +96,7 @@ h3{
 }
 .seven{
     background: #877f7f;
+    color: #877f7f;
     grid-area: seven;
     margin: auto;
     align-items: center;
@@ -107,14 +108,16 @@ h3{
     align-items: center;
     border-right: solid 1px black;
     border-left: solid 1px black;
-  background: #877f7f;
+    background: #877f7f;
+    color: #877f7f;
 }
 .nine{
     grid-area: nine;
     margin: auto;
     align-items: center;
     border-left: solid 1px black;
-background: #877f7f;
+    background: #877f7f;
+    color: #877f7f;
 }
 .ten{
     grid-area: ten;
@@ -133,7 +136,7 @@ background: #877f7f;
     line-height: 1.25;
     border-right: solid 1px black;
     border-left: solid 1px black;
-  background: #877f7f;
+    background: #877f7f;
 }
 .twelve{
     grid-area: twelve;
@@ -142,14 +145,14 @@ background: #877f7f;
     font-size: 25px;
     line-height: 1.25;
     border-left: solid 1px black;
-  background: #877f7f;
+    background: #877f7f;
 }
 body{
-  font-family: "Sour Gummy", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-  font-variation-settings: "wdth" 100;
+    font-family: "Sour Gummy", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
     background: #CBE1EF;
     margin: auto;
 }
